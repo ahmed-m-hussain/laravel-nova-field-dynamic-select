@@ -1,6 +1,6 @@
 <?php
 
-namespace Hubertnnn\LaravelNova\Fields\DynamicSelect\Traits;
+namespace AhmedHussain\LaravelNova\Fields\DynamicSelect\Traits;
 
 trait DependsOnAnotherField
 {
